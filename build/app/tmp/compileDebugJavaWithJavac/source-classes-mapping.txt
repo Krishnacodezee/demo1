@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/pattern_insert_delete/BuildConfig.java
+ com.example.pattern_insert_delete.BuildConfig
